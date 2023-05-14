@@ -1,0 +1,13 @@
+32:41 Complete MERN Beginner Course
+
+~~~
+
+nodemon and ts-node
+
+~~~ 
+
+7:01:00
+
+~~~
+
+Shift Alt O remove unused properties
